@@ -15,3 +15,6 @@ What the hell?
 {% raw %}
 \arg\max_1 + x + y
 {% endraw %}
+
+$\arg\max_1 + x + y$
+$$\arg\max_1 + x + y$$
