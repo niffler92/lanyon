@@ -7,14 +7,16 @@ permalink:           pretty
 title:               Jisung's Blog
 tagline:             'Machine Learning & Deep Learning'
 description:         'Welcome to Jisung\'s Blog. I post random Machine Learning topics. My github is [here](https://github.com/niffler92)'
-url:                 http://lanyon.getpoole.com
+url:                 https://niffler92.github.io
 baseurl:             ''
 paginate:            3
+paginate_path:       "page:num"
+future:              true
 
 # About/contact
 author:
   name:              Jisung Hwang
-  url:               https://twitter.com/mdo
+  url:               https://github.com/niffler92
   email:             jeshwang92@gmail.com
 
 # Custom vars
