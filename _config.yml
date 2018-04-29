@@ -5,8 +5,8 @@ permalink:           pretty
 
 # Setup
 title:               Jisung's Blog
-tagline:             'Machine Learning & Deep Learning'
-description:         'Welcome to Jisung\'s Blog. I post random Machine Learning topics. My github is [here](https://github.com/niffler92)'
+tagline:             "Machine Learning & Deep Learning"
+description:         "Welcome to Jisung's Blog. I post random Machine Learning topics. My github is [here](https://github.com/niffler92)"
 url:                 https://niffler92.github.io
 baseurl:             ''
 paginate:            3
